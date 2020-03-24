@@ -1,0 +1,4 @@
+dummy file
+
+I want to start usecase diagram in draw.io, and save at this directory.
+You can delete this file after draw.io save a diagram at this directory.
